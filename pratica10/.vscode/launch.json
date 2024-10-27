@@ -1,0 +1,61 @@
+{
+  "version": "0.2.0",
+  "configurations": [
+    {
+      "type": "java",
+      "name": "Launch signatureGenWPPKeys",
+      "request": "launch",
+      "mainClass": "pratica10.signatureGenWPPKeys",
+      "projectName": "pratica10_1a5ed2d6"
+    },
+    {
+      "type": "java",
+      "name": "Launch criptoHash",
+      "request": "launch",
+      "mainClass": "pratica10.criptoHash",
+      "projectName": "pratica10_1a5ed2d6"
+    },
+    {
+      "type": "java",
+      "name": "Launch criptoPublicPrivateKey",
+      "request": "launch",
+      "mainClass": "pratica10.criptoPublicPrivateKey",
+      "projectName": "pratica10_1a5ed2d6"
+    },
+    {
+      "type": "java",
+      "name": "Launch pratica10rsa",
+      "request": "launch",
+      "mainClass": "pratica10.pratica10rsa",
+      "projectName": "pratica10_1a5ed2d6"
+    },
+    {
+      "type": "java",
+      "name": "Launch Pratica10",
+      "request": "launch",
+      "mainClass": "Pratica10",
+      "projectName": "pratica10_1a5ed2d6"
+    },
+    {
+      "name": "C/C++ Runner: Debug Session",
+      "type": "cppdbg",
+      "request": "launch",
+      "args": [],
+      "stopAtEntry": false,
+      "cwd": "c:\\Users\\willi.DESKTOP-REK1S4P\\Desktop\\PDFs e Documentos de CC\\2K21\\RC - Pai do Hodor\\Práticas\\Prática 10\\pratica10",
+      "environment": [],
+      "program": "c:\\Users\\willi.DESKTOP-REK1S4P\\Desktop\\PDFs e Documentos de CC\\2K21\\RC - Pai do Hodor\\Práticas\\Prática 10\\pratica10\\build\\Debug\\outDebug",
+      "internalConsoleOptions": "openOnSessionStart",
+      "MIMode": "gdb",
+      "miDebuggerPath": "C:\\MinGW\\bin\\gdb.exe",
+      "externalConsole": false,
+      "setupCommands": [
+        {
+          "description": "Enable pretty-printing for gdb",
+          "text": "-enable-pretty-printing",
+          "ignoreFailures": true
+        }
+      ]
+    }
+  ]
+}
